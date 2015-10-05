@@ -1,0 +1,8 @@
+		 Implementation of 3 Search Algorithms 
+		-----------------------------
+
+This code implements 3 search algorithms namely - BFS, DFS and UCS. 
+
+We enter the source node, muliple middle nodes and destinations. Each way between any two nodes is a pipe. Water starts from the source. There are off-times for the pipes when the pipes do not function. An initial start time is given. Based on the algorithm to be used( has to be specified in the input) this code gives the name of that destination node where the water would reach the fastest and also the time in which the same would happen.
+
+Language Used - Java
